@@ -762,7 +762,7 @@ public class gameTest2 {
 				 System.out.println("counterdeath = " + counterdeath);
 				if (counterhorror1 > 0) {
 					counterdeath++;
-					if (counterdeath >= 6500) {
+					if (counterdeath >= 6500 || percent < 0) {
 						cleareverything();
 
 						if (dead == 0) {
