@@ -78,7 +78,7 @@ public class gameTest {
 	int bufferY = 0;
 	int count = 0;
 	static int check2 = 0;
-	static int countdown = 50;
+	static int countdown = 200;
 
 	/**
 	 * Launch the application.
@@ -787,7 +787,7 @@ else {
 				// System.out.println("counterdeath = " + counterdeath);
 				if (counterhorror1 > 0) {
 					counterdeath++;
-					if (counterdeath >= 4500000) {
+					if (counterdeath >= 45000) {
 						easteregg.setVisible(false);
 						cleareverything();
 
@@ -1168,6 +1168,7 @@ else {
 		breathe();
 countdownlabel.setText("");
 		while (z == 1) {
+			countdownlabel.setText("");
 
 			death.setVisible(true);
 			death1.setVisible(true);
@@ -1187,6 +1188,7 @@ countdownlabel.setText("");
 
 		}
 		while (z == 2) {
+			countdownlabel.setText("");
 
 			death.setVisible(true);
 			death2.setVisible(true);
@@ -1204,6 +1206,7 @@ countdownlabel.setText("");
 			}, 7000);
 		}
 		while (z == 3) {
+			countdownlabel.setText("");
 
 			death.setVisible(true);
 			death3.setVisible(true);
@@ -1221,6 +1224,7 @@ countdownlabel.setText("");
 			}, 7000);
 		}
 		while (z != 3 && z != 2 && z != 1) {
+			countdownlabel.setText("");
 
 			death.setVisible(true);
 			death4.setVisible(true);
