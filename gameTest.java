@@ -787,7 +787,7 @@ else {
 				// System.out.println("counterdeath = " + counterdeath);
 				if (counterhorror1 > 0) {
 					counterdeath++;
-					if (counterdeath >= 45000) {
+					if (counterdeath >= 45000 || percent < 0) {
 						easteregg.setVisible(false);
 						cleareverything();
 
