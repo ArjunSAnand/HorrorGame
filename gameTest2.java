@@ -1,3 +1,11 @@
+/* Horror Game
+* P: to play against the boss
+* June 1st 2020
+* Arjun Anand
+* gameTest2.java
+*/ 
+
+
 package ISP;
 
 import java.awt.EventQueue;
