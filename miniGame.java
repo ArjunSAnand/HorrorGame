@@ -63,6 +63,7 @@ public static void main() {
 	private void initialize() {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 1036, 735);
+		frame.setResizable(false);
 		frame.setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
