@@ -70,21 +70,21 @@ public class gameHome {
 		frame.getContentPane().add(lblNewLabel);
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon("Order\\menu.jpg"));
+		lblNewLabel_1.setIcon(new ImageIcon("Order/menu.jpg"));
 		lblNewLabel_1.setBounds(0, 0, 438, 378);
 		frame.getContentPane().add(lblNewLabel_1);
 		
 	
 		
 		try {
-		      File myObj = new File("filename.txt");
+		      File myObj = new File("files/filename.txt");
 		      Scanner myReader = new Scanner(myObj);
 		      while (myReader.hasNextLine()) {
 		        String data = myReader.nextLine();
 		        System.out.println(data);
 		        
 		        if(data.contentEquals("1")) {
-		    		lblNewLabel.setIcon(new ImageIcon("Order\\easteregg.png"));
+		    		lblNewLabel.setIcon(new ImageIcon("Order/easteregg.png"));
 		      }
 		      }
 		      myReader.close();
