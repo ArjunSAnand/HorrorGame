@@ -1,3 +1,11 @@
+/* Horror Game
+* P: to view characters
+* June 1st 2020
+* Arjun Anand
+* characters.java
+*/ 
+
+
 package ISP;
 
 import java.awt.EventQueue;
