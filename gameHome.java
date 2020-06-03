@@ -1,3 +1,10 @@
+/* Horror Game
+* P: homescreen for the game & access to all tabs
+* June 1st 2020
+* Arjun Anand
+* gameHome.java
+*/ 
+
 package ISP;
 
 import java.awt.EventQueue;
