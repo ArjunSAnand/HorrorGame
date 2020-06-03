@@ -98,7 +98,7 @@ public static void main() {
 		textField.setColumns(10);
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon("Order\\scroll.jpg"));
+		lblNewLabel_1.setIcon(new ImageIcon("Order/scroll.jpg"));
 		lblNewLabel_1.setBounds(0, 0, 1024, 700);
 		frame.getContentPane().add(lblNewLabel_1);
 		
