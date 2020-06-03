@@ -1,3 +1,10 @@
+/* Horror Game
+* P: to play the mini-game
+* June 1st 2020
+* Arjun Anand
+* miniGame.java
+*/ 
+
 package ISP;
 
 import java.awt.EventQueue;
