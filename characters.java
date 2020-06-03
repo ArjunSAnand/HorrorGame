@@ -73,6 +73,7 @@ public class characters {
 	private void initialize() {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 945, 702);
+		frame.setResizable(false);
 		frame.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
