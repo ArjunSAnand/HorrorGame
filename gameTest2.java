@@ -242,115 +242,115 @@ public class gameTest2 {
 
 
 		healthbar = new JLabel("");
-		healthbar.setIcon(new ImageIcon("Order\\100.jpg"));
+		healthbar.setIcon(new ImageIcon("Order/100.jpg"));
 		healthbar.setBounds(550, 10, 735, 103);
 		panel.add(healthbar);
 
 		// pro
 		pro[0] = new JLabel("");
 		pro[0].setBounds(-1538, 5, 3840, 1080);
-		pro[0].setIcon(new ImageIcon("Order\\1.jpg"));
+		pro[0].setIcon(new ImageIcon("Order/1.jpg"));
 		panel.add(pro[0]);
 
 		pro[1] = new JLabel("");
 		pro[1].setBounds(-1538, 5, 3840, 1080);
-		pro[1].setIcon(new ImageIcon("Order\\2.jpg"));
+		pro[1].setIcon(new ImageIcon("Order/2.jpg"));
 		panel.add(pro[1]);
 
 		pro[2] = new JLabel("");
-		pro[2].setIcon(new ImageIcon("Order\\3.jpg"));
+		pro[2].setIcon(new ImageIcon("Order/3.jpg"));
 		pro[2].setBounds(-1538, 5, 3840, 1080);
 		panel.add(pro[2]);
 
 		pro[3] = new JLabel("");
-		pro[3].setIcon(new ImageIcon("Order\\4.jpg"));
+		pro[3].setIcon(new ImageIcon("Order/4.jpg"));
 		pro[3].setBounds(-1538, 5, 3840, 1080);
 		panel.add(pro[3]);
 
 		pro[4] = new JLabel("");
-		pro[4].setIcon(new ImageIcon("Order\\5.jpg"));
+		pro[4].setIcon(new ImageIcon("Order/5.jpg"));
 		pro[4].setBounds(-1538, 5, 3840, 1080);
 		panel.add(pro[4]);
 
 		pro[5] = new JLabel("");
-		pro[5].setIcon(new ImageIcon("Order\\6.jpg"));
+		pro[5].setIcon(new ImageIcon("Order/6.jpg"));
 		pro[5].setBounds(-1538, 5, 3840, 1080);
 		panel.add(pro[5]);
 
 		pro[6] = new JLabel("");
-		pro[6].setIcon(new ImageIcon("Order\\7.jpg"));
+		pro[6].setIcon(new ImageIcon("Order/7.jpg"));
 		pro[6].setBounds(-1538, 5, 3840, 1080);
 		panel.add(pro[6]);
 
 		// prohorror
 		prohorror[0] = new JLabel("");
 		prohorror[0].setBounds(-1538, 5, 3840, 1080);
-		prohorror[0].setIcon(new ImageIcon("Order\\1bossadded.jpg"));
+		prohorror[0].setIcon(new ImageIcon("Order/1bossadded.jpg"));
 		panel.add(prohorror[0]);
 
 		prohorror[1] = new JLabel("");
 		prohorror[1].setBounds(-1538, 5, 3840, 1080);
-		prohorror[1].setIcon(new ImageIcon("Order\\2.jpg"));
+		prohorror[1].setIcon(new ImageIcon("Order/2.jpg"));
 		panel.add(prohorror[1]);
 
 		prohorror[2] = new JLabel("");
-		prohorror[2].setIcon(new ImageIcon("Order\\3.jpg"));
+		prohorror[2].setIcon(new ImageIcon("Order/3.jpg"));
 		prohorror[2].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror[2]);
 
 		prohorror[3] = new JLabel("");
-		prohorror[3].setIcon(new ImageIcon("Order\\4.jpg"));
+		prohorror[3].setIcon(new ImageIcon("Order/4.jpg"));
 		prohorror[3].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror[3]);
 
 		prohorror[4] = new JLabel("");
-		prohorror[4].setIcon(new ImageIcon("Order\\5.jpg"));
+		prohorror[4].setIcon(new ImageIcon("Order/5.jpg"));
 		prohorror[4].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror[4]);
 
 		prohorror[5] = new JLabel("");
-		prohorror[5].setIcon(new ImageIcon("Order\\6.jpg"));
+		prohorror[5].setIcon(new ImageIcon("Order/6.jpg"));
 		prohorror[5].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror[5]);
 
 		prohorror[6] = new JLabel("");
-		prohorror[6].setIcon(new ImageIcon("Order\\7.jpg"));
+		prohorror[6].setIcon(new ImageIcon("Order/7.jpg"));
 		prohorror[6].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror[6]);
 
 		// prohorror2
 		prohorror2[0] = new JLabel("");
 		prohorror2[0].setBounds(-1538, 5, 3840, 1080);
-		prohorror2[0].setIcon(new ImageIcon("Order\\1.jpg"));
+		prohorror2[0].setIcon(new ImageIcon("Order/1.jpg"));
 		panel.add(prohorror2[0]);
 
 		prohorror2[1] = new JLabel("");
 		prohorror2[1].setBounds(-1538, 5, 3840, 1080);
-		prohorror2[1].setIcon(new ImageIcon("Order\\2.jpg"));
+		prohorror2[1].setIcon(new ImageIcon("Order/2.jpg"));
 		panel.add(prohorror2[1]);
 
 		prohorror2[2] = new JLabel("");
-		prohorror2[2].setIcon(new ImageIcon("Order\\3.jpg"));
+		prohorror2[2].setIcon(new ImageIcon("Order/3.jpg"));
 		prohorror2[2].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror2[2]);
 
 		prohorror2[3] = new JLabel("");
-		prohorror2[3].setIcon(new ImageIcon("Order\\4.jpg"));
+		prohorror2[3].setIcon(new ImageIcon("Order/4.jpg"));
 		prohorror2[3].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror2[3]);
 
 		prohorror2[4] = new JLabel("");
-		prohorror2[4].setIcon(new ImageIcon("Order\\5.jpg"));
+		prohorror2[4].setIcon(new ImageIcon("Order/5.jpg"));
 		prohorror2[4].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror2[4]);
 
 		prohorror2[5] = new JLabel("");
-		prohorror2[5].setIcon(new ImageIcon("Order\\6.jpg"));
+		prohorror2[5].setIcon(new ImageIcon("Order/6.jpg"));
 		prohorror2[5].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror2[5]);
 
 		prohorror2[6] = new JLabel("");
-		prohorror2[6].setIcon(new ImageIcon("Order\\7bossadded.jpg"));
+		prohorror2[6].setIcon(new ImageIcon("Order/7bossadded.jpg"));
 		prohorror2[6].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorror2[6]);
 
@@ -359,72 +359,72 @@ public class gameTest2 {
 		// prohorrorlight
 		prohorrorlight[0] = new JLabel("");
 		prohorrorlight[0].setBounds(-1538, 5, 3840, 1080);
-		prohorrorlight[0].setIcon(new ImageIcon("Order\\figureadded1light.jpg"));
+		prohorrorlight[0].setIcon(new ImageIcon("Order/figureadded1light.jpg"));
 		panel.add(prohorrorlight[0]);
 
 		prohorrorlight[1] = new JLabel("");
 		prohorrorlight[1].setBounds(-1538, 5, 3840, 1080);
-		prohorrorlight[1].setIcon(new ImageIcon("Order\\figureadded2light.jpg"));
+		prohorrorlight[1].setIcon(new ImageIcon("Order/figureadded2light.jpg"));
 		panel.add(prohorrorlight[1]);
 
 		prohorrorlight[2] = new JLabel("");
-		prohorrorlight[2].setIcon(new ImageIcon("Order\\3 light.jpg"));
+		prohorrorlight[2].setIcon(new ImageIcon("Order/3 light.jpg"));
 		prohorrorlight[2].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorrorlight[2]);
 
 		prohorrorlight[3] = new JLabel("");
-		prohorrorlight[3].setIcon(new ImageIcon("Order\\4 light.jpg"));
+		prohorrorlight[3].setIcon(new ImageIcon("Order/4 light.jpg"));
 		prohorrorlight[3].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorrorlight[3]);
 
 		prohorrorlight[4] = new JLabel("");
-		prohorrorlight[4].setIcon(new ImageIcon("Order\\5 light.jpg"));
+		prohorrorlight[4].setIcon(new ImageIcon("Order/5 light.jpg"));
 		prohorrorlight[4].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorrorlight[4]);
 
 		prohorrorlight[5] = new JLabel("");
-		prohorrorlight[5].setIcon(new ImageIcon("Order\\6flashlight.jpg"));
+		prohorrorlight[5].setIcon(new ImageIcon("Order/6flashlight.jpg"));
 		prohorrorlight[5].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorrorlight[5]);
 
 		prohorrorlight[6] = new JLabel("");
-		prohorrorlight[6].setIcon(new ImageIcon("Order\\7flashlight.jpg"));
+		prohorrorlight[6].setIcon(new ImageIcon("Order/7flashlight.jpg"));
 		prohorrorlight[6].setBounds(-1538, 5, 3840, 1080);
 		panel.add(prohorrorlight[6]);
 
 		// proflashlight
 		proflashlight[0] = new JLabel("");
 		proflashlight[0].setBounds(-1538, 5, 3840, 1080);
-		proflashlight[0].setIcon(new ImageIcon("Order\\1 light.jpg"));
+		proflashlight[0].setIcon(new ImageIcon("Order/1 light.jpg"));
 		panel.add(proflashlight[0]);
 
 		proflashlight[1] = new JLabel("");
 		proflashlight[1].setBounds(-1538, 5, 3840, 1080);
-		proflashlight[1].setIcon(new ImageIcon("Order\\2 light.jpg"));
+		proflashlight[1].setIcon(new ImageIcon("Order/2 light.jpg"));
 		panel.add(proflashlight[1]);
 
 		proflashlight[2] = new JLabel("");
-		proflashlight[2].setIcon(new ImageIcon("Order\\3 light.jpg"));
+		proflashlight[2].setIcon(new ImageIcon("Order/3 light.jpg"));
 		proflashlight[2].setBounds(-1538, 5, 3840, 1080);
 		panel.add(proflashlight[2]);
 
 		proflashlight[3] = new JLabel("");
-		proflashlight[3].setIcon(new ImageIcon("Order\\4 light.jpg"));
+		proflashlight[3].setIcon(new ImageIcon("Order/4 light.jpg"));
 		proflashlight[3].setBounds(-1538, 5, 3840, 1080);
 		panel.add(proflashlight[3]);
 
 		proflashlight[4] = new JLabel("");
-		proflashlight[4].setIcon(new ImageIcon("Order\\5 light.jpg"));
+		proflashlight[4].setIcon(new ImageIcon("Order/5 light.jpg"));
 		proflashlight[4].setBounds(-1538, 5, 3840, 1080);
 		panel.add(proflashlight[4]);
 
 		proflashlight[5] = new JLabel("");
-		proflashlight[5].setIcon(new ImageIcon("Order\\6flashlight.jpg"));
+		proflashlight[5].setIcon(new ImageIcon("Order/6flashlight.jpg"));
 		proflashlight[5].setBounds(-1538, 5, 3840, 1080);
 		panel.add(proflashlight[5]);
 
 		proflashlight[6] = new JLabel("");
-		proflashlight[6].setIcon(new ImageIcon("Order\\7flashlight.jpg"));
+		proflashlight[6].setIcon(new ImageIcon("Order/7flashlight.jpg"));
 		proflashlight[6].setBounds(-1538, 5, 3840, 1080);
 		panel.add(proflashlight[6]);
 
@@ -432,12 +432,12 @@ public class gameTest2 {
 
 		death = new JLabel("");
 		death.setBounds(0, 0, 2000, 1500);
-		death.setIcon(new ImageIcon("Order\\characters\\death.png"));
+		death.setIcon(new ImageIcon("Order/characters/death.png"));
 		panel.add(death);
 		
 		win = new JLabel("");
 		win.setBounds(0, 0, 2000, 1100);
-		win.setIcon(new ImageIcon("Order\\characters\\win.png"));
+		win.setIcon(new ImageIcon("Order/characters/win.png"));
 		panel.add(win);
 
 	
@@ -526,7 +526,7 @@ public class gameTest2 {
 
 							try {
 								AudioInputStream audioInputStream = AudioSystem
-										.getAudioInputStream(new File("music\\leaves.wav").getAbsoluteFile());
+										.getAudioInputStream(new File("music/leaves.wav").getAbsoluteFile());
 								Clip clip = AudioSystem.getClip();
 								clip.open(audioInputStream);
 								clip.start();
@@ -570,7 +570,7 @@ public class gameTest2 {
 							if (counterleaves == 0) {
 								try {
 									AudioInputStream audioInputStream = AudioSystem
-											.getAudioInputStream(new File("music\\leaves.wav").getAbsoluteFile());
+											.getAudioInputStream(new File("music/leaves.wav").getAbsoluteFile());
 									Clip clip = AudioSystem.getClip();
 									clip.open(audioInputStream);
 									clip.start();
@@ -633,7 +633,7 @@ public class gameTest2 {
 
 							try {
 								AudioInputStream audioInputStream = AudioSystem
-										.getAudioInputStream(new File("music\\leaves.wav").getAbsoluteFile());
+										.getAudioInputStream(new File("music/leaves.wav").getAbsoluteFile());
 								Clip clip = AudioSystem.getClip();
 								clip.open(audioInputStream);
 								clip.start();
@@ -677,7 +677,7 @@ public class gameTest2 {
 							if (counterleaves == 0) {
 								try {
 									AudioInputStream audioInputStream = AudioSystem
-											.getAudioInputStream(new File("music\\leaves.wav").getAbsoluteFile());
+											.getAudioInputStream(new File("music/leaves.wav").getAbsoluteFile());
 									Clip clip = AudioSystem.getClip();
 									clip.open(audioInputStream);
 									clip.start();
@@ -854,7 +854,7 @@ public class gameTest2 {
 	public static void playSound() {
 		try {
 			AudioInputStream audioInputStream = AudioSystem
-					.getAudioInputStream(new File("music\\scary.wav").getAbsoluteFile());
+					.getAudioInputStream(new File("music/scary.wav").getAbsoluteFile());
 			Clip clip = AudioSystem.getClip();
 			clip.open(audioInputStream);
 			FloatControl gainControl = (FloatControl) clip.getControl(FloatControl.Type.MASTER_GAIN);
@@ -869,7 +869,7 @@ public class gameTest2 {
 
 	public static void playCrow() {
 		try {
-			AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("music\\Crow.wav").getAbsoluteFile());
+			AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("music/Crow.wav").getAbsoluteFile());
 			Clip clip = AudioSystem.getClip();
 			clip.open(audioInputStream);
 			FloatControl gainControl = (FloatControl) clip.getControl(FloatControl.Type.MASTER_GAIN);
@@ -884,7 +884,7 @@ public class gameTest2 {
 	public static void playClick() {
 		try {
 			AudioInputStream audioInputStream = AudioSystem
-					.getAudioInputStream(new File("music\\Click.wav").getAbsoluteFile());
+					.getAudioInputStream(new File("music/Click.wav").getAbsoluteFile());
 			Clip clip1 = AudioSystem.getClip();
 			clip1.open(audioInputStream);
 			FloatControl gainControl = (FloatControl) clip1.getControl(FloatControl.Type.MASTER_GAIN);
@@ -899,7 +899,7 @@ public class gameTest2 {
 	public static void flashlightsound() {
 		try {
 			AudioInputStream audioInputStream = AudioSystem
-					.getAudioInputStream(new File("music\\flashlightsound.wav").getAbsoluteFile());
+					.getAudioInputStream(new File("music/flashlightsound.wav").getAbsoluteFile());
 			Clip clip2 = AudioSystem.getClip();
 			clip2.open(audioInputStream);
 			FloatControl gainControl = (FloatControl) clip2.getControl(FloatControl.Type.MASTER_GAIN);
@@ -914,7 +914,7 @@ public class gameTest2 {
 	public static void monster1spawn() {
 		try {
 			AudioInputStream audioInputStream = AudioSystem
-					.getAudioInputStream(new File("music\\monster1spawn.wav").getAbsoluteFile());
+					.getAudioInputStream(new File("music/monster1spawn.wav").getAbsoluteFile());
 			Clip clip3 = AudioSystem.getClip();
 			clip3.open(audioInputStream);
 			FloatControl gainControl = (FloatControl) clip3.getControl(FloatControl.Type.MASTER_GAIN);
@@ -929,7 +929,7 @@ public class gameTest2 {
 	public static void monster2spawn() {
 		try {
 			AudioInputStream audioInputStream = AudioSystem
-					.getAudioInputStream(new File("music\\monster2spawn.wav").getAbsoluteFile());
+					.getAudioInputStream(new File("music/monster2spawn.wav").getAbsoluteFile());
 			Clip clip4 = AudioSystem.getClip();
 			clip4.open(audioInputStream);
 			FloatControl gainControl = (FloatControl) clip4.getControl(FloatControl.Type.MASTER_GAIN);
@@ -944,7 +944,7 @@ public class gameTest2 {
 	public static void breathe() {
 		try {
 			AudioInputStream audioInputStream = AudioSystem
-					.getAudioInputStream(new File("music\\breathe.wav").getAbsoluteFile());
+					.getAudioInputStream(new File("music/breathe.wav").getAbsoluteFile());
 			Clip clip4 = AudioSystem.getClip();
 			clip4.open(audioInputStream);
 			FloatControl gainControl = (FloatControl) clip4.getControl(FloatControl.Type.MASTER_GAIN);
@@ -959,7 +959,7 @@ public class gameTest2 {
 	public static void winn() {
 		try {
 			AudioInputStream audioInputStream = AudioSystem
-					.getAudioInputStream(new File("music\\victory.wav").getAbsoluteFile());
+					.getAudioInputStream(new File("music/victory.wav").getAbsoluteFile());
 			Clip clip4 = AudioSystem.getClip();
 			clip4.open(audioInputStream);
 		//	FloatControl gainControl = (FloatControl) clip4.getControl(FloatControl.Type.MASTER_GAIN);
@@ -975,7 +975,7 @@ public class gameTest2 {
 	public static void laughing() {
 		try {
 			AudioInputStream audioInputStream = AudioSystem
-					.getAudioInputStream(new File("music\\breathe.wav").getAbsoluteFile());
+					.getAudioInputStream(new File("music/breathe.wav").getAbsoluteFile());
 			Clip clip4 = AudioSystem.getClip();
 			clip4.open(audioInputStream);
 		//	FloatControl gainControl = (FloatControl) clip4.getControl(FloatControl.Type.MASTER_GAIN);
@@ -1192,24 +1192,24 @@ countdownlabel.setText("");
 
 public static void healthcheck() {
 	if (health == 8) {
-		healthbar.setIcon(new ImageIcon("Order\\80.jpg"));
+		healthbar.setIcon(new ImageIcon("Order/80.jpg"));
 		laugh = 1;
 		laughing();
 	}
 	else if (health == 6) {
-		healthbar.setIcon(new ImageIcon("Order\\60.jpg"));
+		healthbar.setIcon(new ImageIcon("Order/60.jpg"));
 		laugh = 0;
 		laughing();
 
 	}
 	else if (health == 4) {
-		healthbar.setIcon(new ImageIcon("Order\\40.jpg"));
+		healthbar.setIcon(new ImageIcon("Order/40.jpg"));
 		laugh = 1;
 		laughing();
 
 	}
 	else if (health == 2) {
-		healthbar.setIcon(new ImageIcon("Order\\20.jpg"));
+		healthbar.setIcon(new ImageIcon("Order/20.jpg"));
 		laugh = 3;
 		laughing();
 
