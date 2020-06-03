@@ -1,3 +1,9 @@
+/* Horror Game
+* P: To play the actual game
+* June 1st 2020
+* Arjun Anand
+* gameTest.java
+*/ 
 package ISP;
 
 import java.awt.EventQueue;
