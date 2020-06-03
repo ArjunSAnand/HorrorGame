@@ -104,11 +104,11 @@ public class characters {
 		lblNewLabel_1.setHorizontalAlignment(SwingConstants.CENTER);
 		frame.getContentPane().add(lblNewLabel_1);
 		
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\arjun\\OneDrive\\Desktop\\Order\\characters\\girl.png"));
+		lblNewLabel_1.setIcon(new ImageIcon("Order/characters/girl.png"));
 		textField.setText("Scared of the Light (will not go if hooded figure remains)");
 		
 		JLabel lblNewLabel_2 = new JLabel("New label");
-		lblNewLabel_2.setIcon(new ImageIcon("C:\\Users\\arjun\\eclipse-workspace\\Grade 11\\Order\\menu.jpg"));
+		lblNewLabel_2.setIcon(new ImageIcon("Order/menu.jpg"));
 		lblNewLabel_2.setBounds(0, 0, 933, 667);
 		frame.getContentPane().add(lblNewLabel_2);
 		btnNewButton.addMouseListener(new MouseAdapter() {
@@ -126,19 +126,19 @@ public class characters {
 				}
 				
 				if(x == 0) {
-				lblNewLabel_1.setIcon(new ImageIcon("Order\\characters\\girl.png"));
+				lblNewLabel_1.setIcon(new ImageIcon("Order/characters/girl.png"));
 				textField.setText("Scared of the Light (will not go if hooded figure remains)");
 				}
 				if(x == 1) {
-				lblNewLabel_1.setIcon(new ImageIcon("Order\\characters\\crows.png"));
+				lblNewLabel_1.setIcon(new ImageIcon("Order/characters/crows.png"));
 				textField.setText("Click to make dissapear, will hinder your movement");
 				}
 				if(x == 2) {
-				lblNewLabel_1.setIcon(new ImageIcon("Order\\characters\\hood.png"));
+				lblNewLabel_1.setIcon(new ImageIcon("Order/characters/hood.png"));
 				textField.setText("Scared of the Light, protector of the girl in the shadows");
 				}
 				if(x == 3) {
-				lblNewLabel_1.setIcon(new ImageIcon("Order\\characters\\easteregg.jpg"));
+				lblNewLabel_1.setIcon(new ImageIcon("Order/characters/easteregg.jpg"));
 				textField.setText("???");
 				}
 				
@@ -157,7 +157,7 @@ public class characters {
 			public void mouseClicked(MouseEvent e) {
 				
 				try {
-				      File myObj = new File("filename.txt");
+				      File myObj = new File("files/filename.txt");
 				      Scanner myReader = new Scanner(myObj);
 				      while (myReader.hasNextLine()) {
 				         data = myReader.nextLine();
@@ -180,19 +180,19 @@ public class characters {
 				}
 				
 				if(x == 0) {
-				lblNewLabel_1.setIcon(new ImageIcon("Order\\characters\\girl.png"));
+				lblNewLabel_1.setIcon(new ImageIcon("Order/characters/girl.png"));
 				textField.setText("Scared of the Light (will not go if hooded figure remains)");
 				}
 				if(x == 1) {
-				lblNewLabel_1.setIcon(new ImageIcon("Order\\characters\\crows.png"));
+				lblNewLabel_1.setIcon(new ImageIcon("Order/characters/crows.png"));
 				textField.setText("Click to make dissapear, will hinder your movement");
 				}
 				if(x == 2) {
-				lblNewLabel_1.setIcon(new ImageIcon("Order\\characters\\hood.png"));
+				lblNewLabel_1.setIcon(new ImageIcon("Order/characters/hood.png"));
 				textField.setText("Scared of the Light, protector of the girl in the shadows");
 				}
 				if(x == 3) {
-				lblNewLabel_1.setIcon(new ImageIcon("Order\\characters\\easteregg.jpg"));
+				lblNewLabel_1.setIcon(new ImageIcon("Order/characters/easteregg.jpg"));
 				textField.setText("???");
 				}
 
@@ -208,7 +208,7 @@ public class characters {
 			public void mouseClicked(MouseEvent e) {
 				
 				try {
-				      File myObj = new File("filename.txt");
+				      File myObj = new File("files/filename.txt");
 				      Scanner myReader = new Scanner(myObj);
 				      while (myReader.hasNextLine()) {
 				         data = myReader.nextLine();
